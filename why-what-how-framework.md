@@ -10,7 +10,7 @@ config:
   look: classic
   layout: elk
 ---
-flowchart LR
+flowchart TD
  subgraph subGraph0["學習框架 (Learning Framework)"]
         A["<b>WHY (為什麼)</b><br>故事與目的"]
         B["<b>WHAT (是什麼)</b><br>核心概念與物件"]
