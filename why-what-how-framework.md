@@ -5,15 +5,19 @@
 ### 核心理念的視覺化
 
 ```mermaid
-graph TD
-    subgraph "學習框架 (Learning Framework)"
+---
+config:
+  look: classic
+  layout: elk
+---
+flowchart LR
+ subgraph subGraph0["學習框架 (Learning Framework)"]
         A["<b>WHY (為什麼)</b><br>故事與目的"]
         B["<b>WHAT (是什麼)</b><br>核心概念與物件"]
         C["<b>HOW (怎麼做)</b><br>具體指令與操作"]
-
-        A -- 分解成 --> B
-        B -- 具體化為 --> C
-    end
+  end
+    A -- 分解成 --> B
+    B -- 具體化為 --> C
 ```
 
 ---
