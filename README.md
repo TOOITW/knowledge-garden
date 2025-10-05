@@ -15,6 +15,7 @@ Here you can find the main sections of my garden. Each directory contains a coll
 - ### [**2. Thinking Tools**](./2_Thinking_Tools/)
 
   - _A collection of mental models and frameworks for better problem-solving and decision-making._
+  - [Why-What-How Learning Framework](./2_Thinking_Tools/why-what-how-framework.md)
 
 - ### [**3. Personal Growth**](./3_Personal_Growth/)
   - _Explorations on self-motivation, communication, and continuous learning._
