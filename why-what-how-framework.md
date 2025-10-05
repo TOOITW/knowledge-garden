@@ -6,13 +6,13 @@
 
 ```mermaid
 graph TD
-    subgraph 學習框架 (Learning Framework)
-        A["<font size=5><b>🌍 WHY (為什麼)</b></font><br>故事與目的<br><i>(The Story & Purpose)</i>"]
-        B["<font size=5><b>🧩 WHAT (是什麼)</b></font><br>核心概念與物件<br><i>(The Core Concepts & Objects)</i>"]
-        C["<font size=5><b>🛠️ HOW (怎麼做)</b></font><br>具體指令與操作<br><i>(The Specific Commands & Actions)</i>"]
+    subgraph "學習框架 (Learning Framework)"
+        A["<b>WHY (為什麼)</b><br>故事與目的"]
+        B["<b>WHAT (是什麼)</b><br>核心概念與物件"]
+        C["<b>HOW (怎麼做)</b><br>具體指令與操作"]
 
-        A -- 分解成 (Decomposes into) --> B
-        B -- 具體化為 (Is implemented by) --> C
+        A -- 分解成 --> B
+        B -- 具體化為 --> C
     end
 ```
 
