@@ -5,11 +5,6 @@
 ### 核心理念的視覺化
 
 ```mermaid
----
-config:
-  look: classic
-  layout: elk
----
 flowchart TD
  subgraph subGraph0["學習框架 (Learning Framework)"]
         A["<b>WHY (為什麼)</b><br>故事與目的"]
