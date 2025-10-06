@@ -11,6 +11,7 @@ Here you can find the main sections of my garden. Each directory contains a coll
 - ### [**1. Engineering Craft**](./1_Engineering_Craft/)
 
   - _My notes and SOPs on core software development skills and technologies._
+  - [git reset vs git revert concept](./1_Engineering_Craft/git-operations.md)
 
 - ### [**2. Thinking Tools**](./2_Thinking_Tools/)
 
