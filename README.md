@@ -20,6 +20,7 @@ Here you can find the main sections of my garden. Each directory contains a coll
 
 - ### [**3. Personal Growth**](./3_Personal_Growth/)
   - _Explorations on self-motivation, communication, and continuous learning._
+  - [DO MY NOTE SOP](./3_Personal_Growth/note-sop.md)
 
 ---
 
