@@ -5,6 +5,9 @@ on:
   push:
     paths:
       - "docs/**"
+      - "1_Engineering_Craft/**"
+      - "2_Thinking_Tools/**"
+      - "3_Personal_Growth/**"
   # 也可手動按鈕 +n
   workflow_dispatch:
     inputs:
