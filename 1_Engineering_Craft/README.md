@@ -7,3 +7,4 @@ SOP 與實戰筆記
 ## 全部清單
 - [Git 的黃金準則](./git-operations.md)
 - [Git Merge vs. Git Rebase: 概念與實戰詳解](./git-rebase-vs-merge.md)
+- [Helm Templates 速懂筆記（新手友善版）](./helm_templates_beginner_note_1.md)
