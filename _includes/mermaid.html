@@ -1,0 +1,20 @@
+<!-- Mermaid core -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+
+<script>
+  // 把 <pre><code class="language-mermaid">...</code></pre> 轉成 <div class="mermaid">...</div>
+  document.addEventListener('DOMContentLoaded', () => {
+    const blocks = document.querySelectorAll('pre > code.language-mermaid');
+    blocks.forEach(code => {
+      const pre = code.parentElement;
+      const div = document.createElement('div');
+      div.className = 'mermaid';
+      // 取出原始文字（避免 HTML 被轉義）
+      div.textContent = code.textContent;
+      pre.replaceWith(div);
+    });
+
+    // 啟動 Mermaid
+    mermaid.initialize({ startOnLoad: true });
+  });
+</script>
