@@ -1,3 +1,14 @@
+---
+title: 憑證與 TLS 一頁筆記
+date: 2025-10-28
+tags: [network, certificate]
+---
+
+title:: 憑證與 TLS 一頁筆記
+date:: 2025-10-28
+tags:: network, certificate
+
+
 # 憑證與 TLS 一頁筆記（Certificate, TLS/HTTPS）
 
 ## TL;DR
