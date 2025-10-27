@@ -6,7 +6,7 @@ SOP 與實戰筆記
 
 ## 全部清單
 - [2025-10-13 - Loki 生產環境準備策略與配置規劃](./2025-10-13-Loki-Production-Readiness-Strategy-and-Configuration.md)
-- [憑證與 TLS 一頁筆記（Certificate, TLS/HTTPS）](./certification.md)
+- [憑證與 TLS 一頁筆記](./certification.md)
 - [我的標題   # 先不設定](./csrf.md)
 - [網路筆記](./dns-nat-routetable.md)
 - [Git 的黃金準則](./git-operations.md)
